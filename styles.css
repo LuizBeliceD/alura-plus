@@ -69,7 +69,7 @@ body{
 
 .secundario__imagem{
     width: 80%;
-    /*margin-left: 5em; /*Adicionado por mim */
+    
 }
 
 .secundario{
@@ -87,12 +87,6 @@ body{
     font-size: 16px;
     color: var(--cinza-texto-secundario);
 }
-
-
-/* .container__descricao{ /*Adicionado por mim
-    margin-right: 5em;
-} 
-*/
 
 .botao__secundario{
     display: inline-block;
